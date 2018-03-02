@@ -1,0 +1,12 @@
+C:\Users\Damian\Desktop\zst\ClientHttp\ClientHttp\bin\Debug\ClientHttp.exe.config
+C:\Users\Damian\Desktop\zst\ClientHttp\ClientHttp\obj\Debug\ClientHttp.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\zst\ClientHttp\ClientHttp\bin\Debug\ClientHttp.exe
+C:\Users\Damian\Desktop\zst\ClientHttp\ClientHttp\bin\Debug\ClientHttp.pdb
+C:\Users\Damian\Desktop\zst\ClientHttp\ClientHttp\obj\Debug\ClientHttp.exe
+C:\Users\Damian\Desktop\zst\ClientHttp\ClientHttp\obj\Debug\ClientHttp.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\ZST_17z\zst\ClientHttp\ClientHttp\bin\Debug\ClientHttp.exe.config
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\ZST_17z\zst\ClientHttp\ClientHttp\obj\Debug\ClientHttp.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\ZST_17z\zst\ClientHttp\ClientHttp\obj\Debug\ClientHttp.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\ZST_17z\zst\ClientHttp\ClientHttp\bin\Debug\ClientHttp.exe
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\ZST_17z\zst\ClientHttp\ClientHttp\bin\Debug\ClientHttp.pdb
+D:\STUDIA\STUDIA\SEMESTR5-TIZ\ZST_17z\zst\ClientHttp\ClientHttp\obj\Debug\ClientHttp.csprojResolveAssemblyReference.cache
